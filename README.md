@@ -6,6 +6,10 @@ This is a starter portfolio made with HTML and CSS. This project is used to high
 
 I learned a ton regarding CSS rules regarding layout and placement of elements on a webpage. I cannot wait to look back at this project fondly to see how far I have come as a developer.
 
+## Usage
+
+To utilize this webpage, you can navigate around it via the clickable elements within the heading. You can learn about me, learn about my projects, and get information if you would like to get in touch with me!
+
 ## Installation
 
 N/A
