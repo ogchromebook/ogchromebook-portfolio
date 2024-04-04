@@ -10,6 +10,10 @@ I learned a ton regarding CSS rules regarding layout and placement of elements o
 
 To utilize this webpage, you can navigate around it via the clickable elements within the heading. You can learn about me, learn about my projects, and get information if you would like to get in touch with me!
 
+## Credits
+
+Credit within this project to both my tutor Dru as well as my TA Jason.
+
 ## Installation
 
 N/A
